@@ -3,12 +3,12 @@
 <html>
 <head>
 <!-- ③Sampleを自分の名前にしてください。 -->
-	<title>Sample</title>
+	<title>Kuroita</title>
 </head>
 <body>
 <h1>
 <!-- ④Sampleを自分の名前にしてください。 -->
-	My name is RyoIwasaki!
+	My name is Kuroita!
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>

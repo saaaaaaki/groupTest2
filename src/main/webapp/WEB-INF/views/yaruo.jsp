@@ -8,7 +8,7 @@
 <body>
 <h1>
 <!-- ④Sampleを自分の名前にしてください。 -->
-	My name is Sample!
+	My name is Yaruo!
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>

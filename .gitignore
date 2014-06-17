@@ -28,3 +28,6 @@ hs_err_pid*
 .Spotlight-V100
 .Trashes
 /target
+
+pom.properties
+MANIFEST.MF

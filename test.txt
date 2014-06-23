@@ -3,4 +3,4 @@ sample!
 aaa
 bbb
 ccc
-kuroita
+kauroita
